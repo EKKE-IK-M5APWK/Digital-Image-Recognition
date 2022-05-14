@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digitalizálás", "Digitalizálás\Digitalizálás.csproj", "{218CACF5-8C1B-4C54-9EED-4FAA2BE35139}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hisztogram transzformációk", "Hisztogram transzformációk\Hisztogram transzformációk.csproj", "{5928224D-4CAF-4AEF-BB1A-4193593BDBC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{218CACF5-8C1B-4C54-9EED-4FAA2BE35139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218CACF5-8C1B-4C54-9EED-4FAA2BE35139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218CACF5-8C1B-4C54-9EED-4FAA2BE35139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218CACF5-8C1B-4C54-9EED-4FAA2BE35139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5928224D-4CAF-4AEF-BB1A-4193593BDBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5928224D-4CAF-4AEF-BB1A-4193593BDBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5928224D-4CAF-4AEF-BB1A-4193593BDBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5928224D-4CAF-4AEF-BB1A-4193593BDBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EDE819D-0E6F-4D4C-8D98-52F2A8D42FAD}
+	EndGlobalSection
+EndGlobal
